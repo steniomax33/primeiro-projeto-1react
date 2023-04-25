@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 import { FcEmptyTrash, FcCheckmark, } from "react-icons/fc";
 
